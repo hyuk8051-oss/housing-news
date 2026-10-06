@@ -192,7 +192,7 @@ function artStrip(day){
   const art = DATA.art;
   if (dayIdx !== 0 || !art || art.date !== day.date || !art.items || !art.items.length) return "";
   const go = it => `${esc(art.url)}#${esc(it.anchor)}`;
-  return `<div class="art-b"><h3>그림으로 보는 오늘 <a href="${esc(art.url)}" target="_blank" rel="noopener">크게 보기 →</a></h3>
+  return `<div class="art-b"><h3>인포그래픽 뉴스 <a href="${esc(art.url)}" target="_blank" rel="noopener">크게 보기 →</a></h3>
     <div class="strip">${art.items.map(it => `<a href="${go(it)}" target="_blank" rel="noopener"><img src="${esc(it.img)}" alt="${esc(it.cat)} 그림" loading="lazy" width="132" height="129"><span>${esc(it.cat)}</span><b>${esc(it.title)}</b></a>`).join("")}</div></div>`;
 }
 
