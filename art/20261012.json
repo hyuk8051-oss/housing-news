@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-12",
+ "url": "https://claude.ai/artifact/PvEbpwQSfGxroF4CKyyK7W",
+ "items": [
+  {
+   "cat": "정부정책",
+   "title": "LH 사장 첫 국감, 분사·파업 변수로 시험대",
+   "img": "art/20261012-1.png",
+   "anchor": "s1"
+  },
+  {
+   "cat": "정부정책",
+   "title": "LH, 미분양 아파트 분양가 92%까지 사들인다",
+   "img": "art/20261012-2.png",
+   "anchor": "s2"
+  },
+  {
+   "cat": "시장동향",
+   "title": "서울 집값, 87주 연속 올라 역대 최장 기록",
+   "img": "art/20261012-3.png",
+   "anchor": "s3"
+  },
+  {
+   "cat": "금융/세제",
+   "title": "금융위, 가계부채 엄격 관리하되 실수요자는 핀셋 지원",
+   "img": "art/20261012-4.png",
+   "anchor": "s4"
+  },
+  {
+   "cat": "임대주택",
+   "title": "서울 아파트 월세, 1년 만에 164만원으로 14% 올라",
+   "img": "art/20261012-5.png",
+   "anchor": "s5"
+  },
+  {
+   "cat": "주택품질/안전",
+   "title": "LH 공사현장 23곳, 품질 경고 반복 받아",
+   "img": "art/20261012-6.png",
+   "anchor": "s6"
+  }
+ ]
+}
