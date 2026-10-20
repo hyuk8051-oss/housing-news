@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-21",
+ "url": "https://claude.ai/artifact/PvEbpwQSfGxroF4CKyyK7W",
+ "items": [
+  {
+   "cat": "정부정책",
+   "title": "이재명 대통령, 주택공급 '전격전' 선언",
+   "img": "art/20261021-1.png",
+   "anchor": "s1"
+  },
+  {
+   "cat": "시장동향",
+   "title": "수도권 집 짓기 심리, 석 달 만에 반등",
+   "img": "art/20261021-2.png",
+   "anchor": "s2"
+  },
+  {
+   "cat": "정비사업",
+   "title": "서울 아파트 착공, 열 채 중 여덟 채가 재건축",
+   "img": "art/20261021-3.png",
+   "anchor": "s3"
+  },
+  {
+   "cat": "금융/세제",
+   "title": "리모델링 아파트엔 재산세도 가혹하다",
+   "img": "art/20261021-4.png",
+   "anchor": "s4"
+  },
+  {
+   "cat": "임대주택",
+   "title": "민간임대 관리비, 이제 숨길 수 없다",
+   "img": "art/20261021-5.png",
+   "anchor": "s5"
+  },
+  {
+   "cat": "택지/도시개발",
+   "title": "계양 3기 신도시, 속도가 생명이다",
+   "img": "art/20261021-6.png",
+   "anchor": "s6"
+  }
+ ]
+}
